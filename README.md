@@ -7,3 +7,4 @@
 - 1.6.0 : PORSCHE
 - 1.7.0 : ROLLSROYCE
 - 1.8.0 : BENTLEY
+- 1.9.0 : MCLAREN
