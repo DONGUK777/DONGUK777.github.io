@@ -1,11 +1,12 @@
 #!/bin/bash
 
 FILE=~/tmp/_SUDDEN
+MODEL=KIA
 
 while true
 
 do
-	echo "check"
+	echo "check $MODEL"
 	sleep 3
 done
 
