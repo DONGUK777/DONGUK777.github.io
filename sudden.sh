@@ -15,7 +15,6 @@ do
 		figlet KIA
 		DATE=$(date +"%Y%m%d %H:%M:%S")
 		echo $DATE
-	#sleep 3
 	fi
 	sleep 3
 done
