@@ -3,6 +3,7 @@
 figlet KIA
 
 FILE=~/tmp/_SUDDEN
+DATE=$(date +"%Y%m%d %H:%M:%S")
 
 while true
 do
@@ -11,7 +12,7 @@ do
 	else
 		clear
 		figlet KIA
-		date
+		echo $DATE
 	#sleep 3
 	fi
 	sleep 3
