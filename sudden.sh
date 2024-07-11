@@ -1,12 +1,12 @@
 #!/bin/bash
 
 FILE=~/tmp/_SUDDEN
-MODEL=KIA
 
 while true
-
 do
-	echo "check $MODEL"
+	if [ -e $file ]; then
+		echo "SUDDEN!"
 	sleep 3
+	fi
 done
 
