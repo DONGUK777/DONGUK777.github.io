@@ -8,6 +8,7 @@ do
 		echo "SUDDEN!"
 	else
 		clear
+		KIA
 		date
 	#sleep 3
 	fi
