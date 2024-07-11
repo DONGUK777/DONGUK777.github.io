@@ -9,7 +9,7 @@ while true
 do
 	if [[ -f "$FILE"  ]]; then
 		#echo "check $FILE"
-		echo "SUDDEN!"
+		echo "$DATE SUDDEN!"
 	else
 		clear
 		figlet KIA
