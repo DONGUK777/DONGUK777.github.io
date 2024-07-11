@@ -9,7 +9,8 @@ while true
 do
         if [[ -f "$FILE"  ]]; then
                 #echo "check $FILE"
-                echo "$DATE, SUDDEN!"
+		DATE=$(date +"%Y%m%d %H:%M:%S")
+                echo $DATE, "SUDDEN!"
         else
                 clear
                 figlet KIA
